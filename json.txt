@@ -1,0 +1,4 @@
+Json- javascript object notation
+sysntax for storing and exhanging data
+XML like structure
+

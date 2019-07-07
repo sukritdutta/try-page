@@ -1,0 +1,11 @@
+* javascript 1st prototype in 1995 in 10 days.
+* it was submitted to ECMA(European Computer manufactures association)
+*ES6 is also known as ECMAscript2015. 
+
+**What is the problem of hosting? and how block scope helps it?
+
+1. Block scope
+----use let instead of var
+
+2.const. keyword
+----

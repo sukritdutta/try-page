@@ -1,0 +1,59 @@
+find length of the array: string.length
+finding a string inside a string: indexOf
+extracting parts of the string: substr or slice
+replace a part of the string: replace
+changing upper case to lower case: toUpperCase, to LowerCase
+merging two strings: concat
+converting a String to array: split
+
+//few handy methods................................................
+
+1. toString
+eg: 
+var num = 11505456
+var convert = num.toString();
+alert(typeof(convert));
+
+2. Number()
+eg:
+var num="123456"
+var convert = Number(num);
+alert(typeof(convert))
+
+
+//few array methods important..................................................................
+
+1. toString
+eg:
+var array=["a","b","c"];
+var convert = array.toString();
+alert(convert);
+
+2. push(),pop() 
+eg:
+var array=["a","b","c"];
+var new = array.push("d");
+alert(new);
+//output----------a,b,c,d
+
+var array=["a","b","c"];
+var new = array.pop();
+alert(new);
+//output----------a,b,c
+
+3. shift()
+eg:
+var array=["a","b","c"];
+array.shift();
+alert(array)
+//output----------b,c
+
+4. unshift()
+var array=["a","b","c"];
+array.unshift("d");
+alert(array)
+//output----------d,b,c
+
+
+
+//date functions......................................................................................................
